@@ -1,0 +1,15 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+compile_commands.json
+.clangd
+.cache
+19E042PIM_MB_PINS
+mbed-mqtt
+Adafruit_GFX
+mbed_opt3001
+X_NUCLEO_IKS01A3
